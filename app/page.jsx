@@ -1,4 +1,6 @@
 'use client';
+//  Indique à Next.js que ce composant doit être rendu côté client.
+
 
 import { useState } from 'react';
 import { Input } from './components/Input';
